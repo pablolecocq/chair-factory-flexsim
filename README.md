@@ -4,7 +4,7 @@ Discrete-event simulation of a **metal chair factory**, built in **FlexSim** to 
 
 Project developed for the **Integrated Manufacturing Systems** course (Master's, 1st semester — ETSII, UPM).
 
-![FlexSim plant layout](media/flexsim-layout.png)
+![FlexSim plant overview](media/flexsim-overview.png)
 
 ---
 
@@ -34,7 +34,9 @@ Constraints from the statement: manual operations carry a **±10 % variation**; 
 - **Analysis:** per-section cycle time and efficiency, total order completion time, and bottleneck identification.
 - **Improvement:** an alternative model (`chair-factory-improved.fsm`) that reduces the order delivery time.
 
-![Raw-material warehouse](media/warehouse.png)
+| Section detail | Raw-material warehouse |
+|:---:|:---:|
+| ![FlexSim layout detail](media/flexsim-layout.png) | ![Raw-material warehouse](media/warehouse.png) |
 
 ---
 
