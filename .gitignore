@@ -1,0 +1,12 @@
+# Autoguardados / backups de FlexSim
+*.fsm!
+*.bak
+
+# Temporales de Office
+~$*
+
+# SO
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
